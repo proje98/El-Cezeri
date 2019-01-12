@@ -3,7 +3,7 @@
         margin-right:auto;
         width: 760px;
         background-color:#7c6249;
-        border:2em solid #301800;        
+        border:2px solid #301800;        
 }
 
 .menu {
@@ -20,13 +20,13 @@
  .btn {
     background-color: #281d00;
     color: #FFF8DC;
-    padding: 16em;
-    font-size: 14em;
+    padding: 16px;
+    font-size: 14px;
     border: none;
     outline: none;
     float: left;
     border-right:1px solid #7c634a;
-    width: 144em;
+    width: 144px;
     text-align: center;
 
 }
@@ -34,8 +34,8 @@
 .btn2 {
     background-color: #3d2400;
     color: #FFF8DC;
-    padding: 16em;
-    font-size: 14em;
+    padding: 16px;
+    font-size: 14px;
     border: none;
     outline: none;
     border-right:1em solid #7c634a;
@@ -45,13 +45,13 @@
 .btn3 {
     background-color: #281d00;
     color: #FFF8DC;
-    padding: 16em;
-    font-size: 14em;
+    padding: 16px;
+    font-size: 14px;
     border: none;
     outline: none;
     position: relative;
-    left: 41em;
-    width: 144em;
+    left: 41px;
+    width: 144px;
     text-align: center;
 
     }
@@ -65,7 +65,7 @@
     display: none;
     position: absolute;
     background-color: #604b20;
-    min-width: 160em;
+    min-width: 160px;
     z-index: 1;
 }
 
