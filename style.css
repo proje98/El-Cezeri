@@ -115,7 +115,7 @@
     height: auto;
     float: right;
     padding: 10px 20px 10px 20px; 
-    max-height: 3900em;
+    max-height: 5900em;
   
 }
 
@@ -126,7 +126,7 @@
     float: right;
     padding: 10px 20px 10px 20px;  
     align: center; 
-    max-height: 3900em;
+    max-height: 5900em;
 
 }
 .footer {
