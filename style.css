@@ -106,7 +106,7 @@
     height: auto;
     padding: 10px 20px 10px 20px;
     float: left;
-    height: 250em;
+    max-height: 250em;
     
 }
 .sidebar {
@@ -115,7 +115,7 @@
     height: auto;
     float: right;
     padding: 10px 20px 10px 20px; 
-    height: 250em;
+    max-height: 250em;
   
 }
 
@@ -126,14 +126,14 @@
     float: right;
     padding: 10px 20px 10px 20px;  
     align: center; 
-    height: 250em;
+    max-height: 250em;
 }
 .footer {
     background-image: linear-gradient( -90deg, #301800, #604b20);
     width:760px;
     height:66px;
     clear: both;
-    position:fixed;
+    position:static;
 }
 
 .img {
