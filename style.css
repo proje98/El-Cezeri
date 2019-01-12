@@ -65,13 +65,13 @@
     display: none;
     position: absolute;
     background-color: #604b20;
-    min-width: 160px;
+    min-width: 190px;
     z-index: 1;
 }
 
 .dropdown-content a {
     color: #FFF8DC;
-    padding: 15px 20px;
+    padding: 8px 20px;
     text-decoration: none;
     display: block;
 }
