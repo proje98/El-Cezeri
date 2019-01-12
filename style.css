@@ -90,7 +90,7 @@
 
 .header {
     background-image: url(resimler/czr.jpg);
-    background-size: 760px;
+    background-size: 760%;
     background-position: center;
     width:760px;
     height:200px;
