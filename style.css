@@ -35,7 +35,7 @@
     background-color: #3d2400;
     color: #FFF8DC;
     padding: 16px;
-    font-size: 10px;
+    font-size: 14px;
     border: none;
     outline: none;
     border-right:1px solid #7c634a;
@@ -46,7 +46,7 @@
     background-color: #281d00;
     color: #FFF8DC;
     padding: 16px;
-    font-size: 10px;
+    font-size: 14px;
     border: none;
     outline: none;
     position: relative;
@@ -71,7 +71,7 @@
 
 .dropdown-content a {
     color: #FFF8DC;
-    padding: 8px 20px;
+    padding: 8px 22px;
     text-decoration: none;
     display: block;
 }
