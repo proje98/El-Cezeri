@@ -20,8 +20,8 @@
  .btn {
     background-color: #281d00;
     color: #FFF8DC;
-    padding: 16px;
-    font-size: 11px;
+    padding: 18px;
+    font-size: 13px;
     border: none;
     outline: none;
     float: left;
@@ -34,8 +34,8 @@
 .btn2 {
     background-color: #3d2400;
     color: #FFF8DC;
-    padding: 16px;
-    font-size: 11px;
+    padding: 18px;
+    font-size: 13px;
     border: none;
     outline: none;
     border-right:1px solid #7c634a;
@@ -45,8 +45,8 @@
 .btn3 {
     background-color: #281d00;
     color: #FFF8DC;
-    padding: 16px;
-    font-size: 11px;
+    padding: 18px;
+    font-size: 13px;
     border: none;
     outline: none;
     position: relative;
