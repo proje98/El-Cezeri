@@ -106,7 +106,7 @@
     height: auto;
     padding: 10px 20px 10px 20px;
     float: left;
-    height: 450em;
+    height: 150em;
     
 }
 .sidebar {
@@ -115,7 +115,7 @@
     height: auto;
     float: right;
     padding: 10px 20px 10px 20px; 
-    height: 500em;
+    height: 100em;
   
 }
 
@@ -126,7 +126,7 @@
     float: right;
     padding: 10px 20px 10px 20px;  
     align: center; 
-    height: 500em;
+    height: 100em;
 }
 .footer {
     background-image: linear-gradient( -90deg, #301800, #604b20);
