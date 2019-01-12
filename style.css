@@ -10,10 +10,10 @@
     
     background:    #281d00;
     width: 760px;
-    height: 50em;
+    height: 50px;
     display: inline-block;
     float: left;
-    margin-bottom: 5em;    
+    margin-bottom: 5px;    
 }
 
 
@@ -38,7 +38,7 @@
     font-size: 14px;
     border: none;
     outline: none;
-    border-right:1em solid #7c634a;
+    border-right:1px solid #7c634a;
 
     }
 
@@ -71,7 +71,7 @@
 
 .dropdown-content a {
     color: #FFF8DC;
-    padding: 8em 20em;
+    padding: 8px 20px;
     text-decoration: none;
     display: block;
 }
