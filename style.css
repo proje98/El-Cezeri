@@ -1,7 +1,7 @@
 .cerceve { 
         margin-left:auto;
         margin-right:auto;
-        width: 100em;
+        width: 50em;
         background-color:#7c6249;
         border:2em solid #301800;        
 }
@@ -9,7 +9,7 @@
 .menu {
     
     background:    #281d00;
-    width: 100em;
+    width: 50em;
     height: 50em;
     display: inline-block;
     float: left;
@@ -102,7 +102,7 @@
 }
 .content {
     background-color:#3a2910;
-    width:140em;
+    width:60em;
     height: auto;
     padding: 10px 20px 10px 20px;
     float: left;
@@ -111,7 +111,7 @@
 }
 .sidebar {
     background-color:#604b20   ;
-    width:140em;  
+    width:60em;  
     height: auto;
     float: right;
     padding: 10px 20px 10px 20px; 
@@ -121,7 +121,7 @@
 
 .sidebar2 {
     background-color:#604b20   ;
-    width:140em;  
+    width:60em;  
     height: auto;
     float: right;
     padding: 10px 20px 10px 20px;  
