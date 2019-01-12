@@ -106,7 +106,7 @@
     height: auto;
     padding: 10px 20px 10px 20px;
     float: left;
-    max-height: 3850em;
+    height: 2850em;
     
 }
 .sidebar {
@@ -115,7 +115,7 @@
     height: auto;
     float: right;
     padding: 10px 20px 10px 20px; 
-    max-height: 5900em;
+    height: 3900em;
   
 }
 
@@ -126,7 +126,7 @@
     float: right;
     padding: 10px 20px 10px 20px;  
     align: center; 
-    max-height: 5900em;
+    height: 3900em;
 
 }
 .footer {
