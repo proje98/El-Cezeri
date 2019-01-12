@@ -1,32 +1,32 @@
 .cerceve { 
         margin-left:auto;
         margin-right:auto;
-        width: 760px;
+        width: 760em;
         background-color:#7c6249;
-        border:2px solid #301800;        
+        border:2em solid #301800;        
 }
 
 .menu {
     
     background:    #281d00;
-    width: 760px;
-    height: 50px;
+    width: 760em;
+    height: 50em;
     display: inline-block;
     float: left;
-    margin-bottom: 5px;    
+    margin-bottom: 5em;    
 }
 
 
  .btn {
     background-color: #281d00;
     color: #FFF8DC;
-    padding: 16px;
-    font-size: 14px;
+    padding: 16em;
+    font-size: 14em;
     border: none;
     outline: none;
     float: left;
     border-right:1px solid #7c634a;
-    width: 144px;
+    width: 144em;
     text-align: center;
 
 }
@@ -34,24 +34,24 @@
 .btn2 {
     background-color: #3d2400;
     color: #FFF8DC;
-    padding: 16px;
-    font-size: 14px;
+    padding: 16em;
+    font-size: 14em;
     border: none;
     outline: none;
-    border-right:1px solid #7c634a;
+    border-right:1em solid #7c634a;
 
     }
 
 .btn3 {
     background-color: #281d00;
     color: #FFF8DC;
-    padding: 16px;
-    font-size: 14px;
+    padding: 16em;
+    font-size: 14em;
     border: none;
     outline: none;
     position: relative;
-    left: 41px;
-    width: 144px;
+    left: 41em;
+    width: 144em;
     text-align: center;
 
     }
@@ -65,13 +65,13 @@
     display: none;
     position: absolute;
     background-color: #604b20;
-    min-width: 160px;
+    min-width: 160em;
     z-index: 1;
 }
 
 .dropdown-content a {
     color: #FFF8DC;
-    padding: 8px 20px;
+    padding: 8em 20em;
     text-decoration: none;
     display: block;
 }
@@ -102,7 +102,7 @@
 }
 .content {
     background-color:#3a2910;
-    width:440px;
+    width:440em;
     height: auto;
     padding: 10px 20px 10px 20px;
     float: left;
@@ -111,7 +111,7 @@
 }
 .sidebar {
     background-color:#604b20   ;
-    width:240px;  
+    width:240em;  
     height: auto;
     float: right;
     padding: 10px 20px 10px 20px; 
@@ -121,7 +121,7 @@
 
 .sidebar2 {
     background-color:#604b20   ;
-    width:240px;  
+    width:240em;  
     height: auto;
     float: right;
     padding: 10px 20px 10px 20px;  
